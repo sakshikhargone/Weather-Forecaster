@@ -33,7 +33,7 @@ With a simple and intuitive interface, this app ensures you stay updated on weat
   npm run start
 ```
 
-## Live Screenshots - 🌦️
+## App Screenshot- 🌦️
 
 ![App](screenshots/app.png)
 
